@@ -1,10 +1,6 @@
 // Code your solution in this file!
-const companyName = "scuber";
+const companyName = "Scuber";
 
-function {
-    companyName = "scuber"
-  }
+let mostProfitableNeighborhood = "Chelsea";
 
-let mostProfitableNeiborhood = "chelsea";
-
-let companyCeo = "susan smith";
+let companyCeo = `Susan Smith`;
